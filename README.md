@@ -1,0 +1,1 @@
+<p>Created a simple app to learn the basics of react native implementing expo</p>
